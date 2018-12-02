@@ -1,0 +1,10 @@
+{
+  "identifier": "tk.myqq.simple.task.editor",
+  "name": "simple task Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.1.10",
+  "description": "simple task editor.",
+  "url": "https://p1.myqq.tk/simple-task-editor",
+  "download_url": "https://github.com/qhyou11/simple-task-editor/archive/1.1.10_n.zip"
+}
